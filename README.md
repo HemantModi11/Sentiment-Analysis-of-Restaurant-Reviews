@@ -7,4 +7,4 @@ I have uploaded various Models
 
 1. Naive Bayes and Natural Language Processing
    -- Accuracy = 78.5% with alpha = 0.2
- 
+2. Random Forest and TFIDF
