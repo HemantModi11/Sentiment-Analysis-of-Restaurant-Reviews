@@ -5,6 +5,16 @@ I have used the ML algorithm in restaurant reviews but this can be applied to ot
 
 I have uploaded various Models
 
+Preprocessing technique used - 
+1. Natural Language Toolkit
+2. PorterStemmer
+
+Machine Learning Models Used
 1. Naive Bayes and Natural Language Processing
-   -- Accuracy = 78.5% with alpha = 0.2
-2. Random Forest and TFIDF
+   ->Accuracy = 78.5%
+2. Random Forest
+   ->Accuracy = 70.5%
+4. Logistic Regression
+   ->Accuracy = 74.0%
+6. Support Vector Machines
+   ->Accuracy = 99.5%
