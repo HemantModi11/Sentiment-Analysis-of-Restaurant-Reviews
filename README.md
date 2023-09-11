@@ -10,11 +10,11 @@ Preprocessing technique used -
 2. PorterStemmer
 
 Machine Learning Models Used
-1. Naive Bayes and Natural Language Processing
+1. Naive Bayes and Natural Language Processing<br>
    ->Accuracy = 78.5%
-2. Random Forest
+2. Random Forest<br>
    ->Accuracy = 70.5%
-4. Logistic Regression
+4. Logistic Regression<br>
    ->Accuracy = 74.0%
-6. Support Vector Machines
+6. Support Vector Machines<br>
    ->Accuracy = 99.5%
