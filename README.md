@@ -9,7 +9,7 @@ Preprocessing technique used -
 1. Natural Language Toolkit
 2. PorterStemmer
 
-Machine Learning Models Used
+Machine Learning Libraries Used
 1. Naive Bayes and Natural Language Processing<br>
    ->Accuracy = 78.5%
 2. Random Forest<br>
