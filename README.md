@@ -11,10 +11,10 @@ Preprocessing technique used -
 
 Machine Learning Libraries Used
 1. Naive Bayes and Natural Language Processing<br>
-   ->Accuracy = 78.5%
+   ->Accuracy = 77.67%
 2. Random Forest<br>
-   ->Accuracy = 70.5%
+   ->Accuracy = 77.67%
 4. Logistic Regression<br>
-   ->Accuracy = 74.0%
+   ->Accuracy = 78.33%
 6. Support Vector Machines<br>
    ->Accuracy = 95.67%
