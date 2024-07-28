@@ -17,4 +17,4 @@ Machine Learning Libraries Used
 4. Logistic Regression<br>
    ->Accuracy = 74.0%
 6. Support Vector Machines<br>
-   ->Accuracy = 99.5%
+   ->Accuracy = 95.67%
